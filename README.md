@@ -35,5 +35,5 @@ COMANDO PARA DESFAZER GIT ADD
 CRIAR BRANCH
 	git branch novabranch
 Posicionar o HEAD para a nova Brach
-	git checkout novabranch
+	git checkout novabranch --
 
