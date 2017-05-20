@@ -42,3 +42,6 @@ Porem para dar o novo push, eh preciso sincronizar d novo a MASTER pelo comando 
 
 Pra juntar as duas BRANCH basta dar um merge
 	git merge NovoBranch
+
+
+TRABALHANDO EM PROJETOS CONJUNTOS....
