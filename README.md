@@ -10,3 +10,7 @@ git remote add origin https://github.com/jlanssarini/workshop_epic.git
 
 
 ####Efetuar modificacoes e git diff
+
+sempre nessa ordem:
+	git add nomedoarquivo
+	git commit -m "MENSAGEM"
