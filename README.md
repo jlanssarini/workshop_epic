@@ -23,3 +23,10 @@ ele vai conectar as master remota com a branch (master_remota:master_branch)
 
 
 VARIOS ARQUIVOS.....
+
+COmando para os LOGS
+	git log
+
+COMANDO PARA DESFAZER GIT ADD
+	git reset ARQUIVO
+
