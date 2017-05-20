@@ -41,5 +41,4 @@ Porem para dar o novo push, eh preciso sincronizar d novo a MASTER pelo comando 
 	git  push --set-upstream origin master:master
 
 Pra juntar as duas BRANCH basta dar um merge
-	git merge NovoBranch
-	
+	git merge NovoBranch --
