@@ -28,5 +28,12 @@ COmando para os LOGS
 	git log
 
 COMANDO PARA DESFAZER GIT ADD
-	git reset ARQUIVO
+	git reset ARQUIVO     // eh o oposto do ADD
+	git checkout ARQUIVO   //por padrao busca o ultimo commit local mas pode passar novos parametros...
+
+
+CRIAR BRANCH
+	git branch novabranch
+Posicionar o HEAD para a nova Brach
+	git checkout novabranch
 
