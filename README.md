@@ -35,7 +35,7 @@ COMANDO PARA DESFAZER GIT ADD
 CRIAR BRANCH
 	git branch novabranch
 Posicionar o HEAD para a nova Brach
-	git checkout novabranch
+	git checkout novabranch --
 
 Porem para dar o novo push, eh preciso sincronizar d novo a MASTER pelo comando do set UPSTREAM
 	git  push --set-upstream origin master:master
